@@ -1,0 +1,11 @@
+There is no sucessful project without testing.
+So we should love testing.
+Principle 1: Testing shows presence of defects ,but cannot prove that there are no defects.
+
+We always should start testing at the begining of software development lift cycle.
+Because all things will be wrong if we get the wrong requirement at first.
+Principle 2:Early Testing
+
+We should accept the reality that nothing is perfect.
+And the resources are always limited.
+So we need do the most important things first.
