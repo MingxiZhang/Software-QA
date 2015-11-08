@@ -8,4 +8,10 @@ Principle 2:Early Testing
 
 We should accept the reality that nothing is perfect.
 And the resources are always limited.
-So we need do the most important things first.
+So we need to use risks and priorities to focus testing efforts.
+Principle 3: Exhaustive testing is impossible.
+
+Different kinds of softwares are designed for different purposes.
+Testing is done differently in different contexts.
+Principle 4: Testing is context dependent.
+
