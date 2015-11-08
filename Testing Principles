@@ -17,4 +17,5 @@ Principle 4: Testing is context dependent.
 
 Only God is omnipotent. Everyting has its limit.
 The same set of test case will no longer find any new bugs.
-
+Over time, our focus may change from finding coding bugs to looking at the requirements and design documents for defects.
+Principle 5: over Pesticide Paradox
