@@ -1,0 +1,20 @@
+TestScenarioId,TestCaseId,TestTitle,TestPriority
+TS001,TC001,check web login function,High			
+							
+								
+								
+Steps,TestDescription,Uername,Password,ExpectedResult,ActualResult,Status(Pass/Fail)
+1,input valid username and valid password,username1,wzer0123,"login sucessfully,show user portal page",,
+2,empty username and empty password,,,"pop alert message, remind username or password can not be empty",,
+3,input valid username and invalid password,username1,000,"pop alert message,remind invalid username or invalid password ",,
+4,input invalid username and invalid password,wrongusername,111,"pop alert message,remind invalid username or invalid password ",,					
+5,input invalid username and valid password,wrongusername,wzer0123,"pop alert message,remind invalid username or invalid password ",,
+6,empty username and input password,,123,"pop alert message,username can not be empty",,			
+7,input username and empty password,username1,,"pop alert message, password can not be empty",,		
+								
+								
+								
+								
+								
+								
+								
