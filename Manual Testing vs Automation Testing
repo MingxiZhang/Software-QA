@@ -1,0 +1,12 @@
+Manual Testing does not require knowledge of any testing tool.
+100% Automation is not possible.This makes Manual Testing imperative.
+The goal of Manual Testing is to ensure that the application is error free and it is working
+in conformance to the specified functional requirements.
+Software Testing Types:
+1.Acceptance Testing
+2.Black Box
+3.White Box
+4.Unit Testing 
+5.System Testing
+6.Integration Testing
+
