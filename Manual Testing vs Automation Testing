@@ -36,3 +36,21 @@ e-commerce as well as ERP applications.
 
 Selenium: It is an open source web automation tool. It supports all types of web browsers. Despite being open source
 it is actively developed and supported.
+
+Framework in Automation
+A framework is set of automation guidelines which help in 
+1)Maintaining consistency of Testing
+2)Improves test structuring
+3)Minimum usage of code
+4)Less Maintenance of code
+5)Improve re-usability
+6)Non Technical testers can be involved in code
+7)Training period of using the tool can be reduced
+8)Involves Data wherever appropriate
+
+There are four types of framework used in software automation testing:
+1.Data Driven Automation Framework
+2.Keyword Driven Automation Framework
+3.Modular Automation Framework
+4.Hybrid Automation Framework
+
