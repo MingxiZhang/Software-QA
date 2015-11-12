@@ -19,3 +19,20 @@ Whick Test Cases to Automate?
 2.Test cases that are executed repeatedly
 3.Test Cases that are very tedious or difficult to perform manually
 4.Test Cases which are time consuming
+
+The following category of test cases are not suitable for automation:
+1.Test Cases that are newly designed and not executed manually at least once
+2.Test Cases for which the requirements are changing frequently
+3.Test Cases which are executed on ad-hoc basis
+
+Following are the most popular test tools:
+QTP:HP's Quick Test Profession(now known as HP Functional Test) is the market leader in Functional Testing Tool.
+QTP does not support Infromatica.
+QTP can be used in conjunction with Quality Center which is a comprehensive Test Management Tool know is light
+tool which can be recommended for web or client/server applications.
+
+Rational Robot: It is an IBM tool used to automate regression,functional and configuration tests for client server,
+e-commerce as well as ERP applications.
+
+Selenium: It is an open source web automation tool. It supports all types of web browsers. Despite being open source
+it is actively developed and supported.
