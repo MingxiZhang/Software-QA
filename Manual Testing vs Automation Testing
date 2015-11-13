@@ -14,7 +14,7 @@ Goal of Automation is to reduce number of test cases to be run manually and not 
 manual testing all together.
 Automated Testing saves time and manpower,increases test coverage and speed of test execution.
 
-Whick Test Cases to Automate?
+Which Test Cases to Automate?
 1.High Risk- Business Critical test cases
 2.Test cases that are executed repeatedly
 3.Test Cases that are very tedious or difficult to perform manually
