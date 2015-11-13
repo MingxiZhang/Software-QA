@@ -1,0 +1,43 @@
+##########################################
+#
+# fork a github repo
+#
+##########################################
+
+# the forked url 
+ 1007  git clone https://github.com/EverydayQA/Software-QA.git
+
+# go inside the local cloned repo(forked)
+ 1008  cd Software-QA/
+ 1009  git remote -v
+
+# add original url
+ 1010  git remote add upstream https://github.com/MingxiZhang/Software-QA.git
+ 1011  git remote -v
+
+# sync with origial repo
+ 1012  git fetch upstream
+ 1013  git checkout master
+ 1014  git merge upstream/master
+
+# created a branch by mistake
+ 1020  git  branch 
+
+# remove the branch
+ 1024  git branch -d show
+
+# log the command for future reference
+ 1029  history |tail -n 25 > fork_howto.txt
+
+#######################################################
+#
+# social
+#
+#
+#######################################################
+
+follow a project
+watch a project
+report issue - bug report
+contribute  by updating forked project
+give githubber a star  
