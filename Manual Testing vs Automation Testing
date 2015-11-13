@@ -25,6 +25,33 @@ The following category of test cases are not suitable for automation:
 2.Test Cases for which the requirements are changing frequently
 3.Test Cases which are executed on ad-hoc basis
 
+Automation Best Practices:
+To get maximum ROI of automation,observe the following
+*Scope of Automation needs to be determined in detail before the start of the project.
+*Select the right automation tool:A tool must fit to the automation requirements
+*Choose appropriate framework
+*Scripting Standars-
+           Create uniform scripts,comments and indentation of the code
+           Adequate Exception handling-How error is handled on system failure or unexpected behavior of the application
+           User defined messages should be coded or standardized for Error Logging for testers to understand
+*Measure metrics
+
+How to Choose an Automation Tool?
+*Environment Support
+*Ease of use
+*Testing of Database
+*Object identification
+*Image Testing 
+*Error Recovery Testing
+*Object Mapping
+*Scripting Language Used
+*Support for various types of test-including functional,test management,mobile
+*Support for multiple testing frameworks
+*Easy to debug the automation software scripts
+*Ability to recognize objects in any environment
+*Extensive test reports and results
+*Minimize training cost of selected tools
+
 Following are the most popular test tools:
 QTP:HP's Quick Test Profession(now known as HP Functional Test) is the market leader in Functional Testing Tool.
 QTP does not support Infromatica.
