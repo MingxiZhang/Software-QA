@@ -25,6 +25,8 @@ The following category of test cases are not suitable for automation:
 2.Test Cases for which the requirements are changing frequently
 3.Test Cases which are executed on ad-hoc basis
 
+
+
 Test Tool selection
 Test tool selection largerly depends on the technology the Application Under Test is built on.
 Automation Best Practices:
@@ -83,3 +85,9 @@ There are four types of framework used in software automation testing:
 3.Modular Automation Framework
 4.Hybrid Automation Framework
 
+Automation Process
+1)Test Tool Selection
+2)Define scope of Automation
+3)Planning,Design and Development
+4)Test Execution
+5)Maintenance
