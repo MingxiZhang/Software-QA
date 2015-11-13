@@ -25,6 +25,8 @@ The following category of test cases are not suitable for automation:
 2.Test Cases for which the requirements are changing frequently
 3.Test Cases which are executed on ad-hoc basis
 
+Test Tool selection
+Test tool selection largerly depends on the technology the Application Under Test is built on.
 Automation Best Practices:
 To get maximum ROI of automation,observe the following
 *Scope of Automation needs to be determined in detail before the start of the project.
