@@ -1,0 +1,40 @@
+Installation Guide For Apache 2.4
+On Windows 7
+
+Summary: Apache 2.4 is no more available as msi. But you may found it up to version 2.2x in the archive.   http://archive.apache.org/dist/httpd/binaries/win32/ 
+
+Software List:
+1)Apache 2.4 binaries VC1.4
+	http://www.apachelounge.com/download/
+	You should download different version of Apache 2.4 based on your Windows version
+	For example, Windows 7 should download Apache 2.4.17 Win64
+2)the latest Visual C++ Redistributable for Visual Studio 2015
+	Because this version of Apache binaries is built with the Visual Studio C++, so you need to download Visual C++ Redistributable for Visual Studio 2015 for installation.
+	http://www.microsoft.com/en-us/download/details.aspx?id=48145
+	You should download different version of latest Visual C++ Redistributable Package based on your Windows version.
+	For example, Windows 7 should download vc_redist.x64.exe
+
+
+Installation Steps
+1)download Apache 2.4 binaries VC1.4 and unzip the files where you want to put
+2)download and install the latest Visual C++ Redistributable for Visual Studio 2015
+3)run cmd command from StartUp as Administrator
+change the directory to  bin folder under your apache folder
+For example , I put Apache fold in the this path : D:\Project\apache\Apache24
+So I need to change the directory to the path : D:\Project\apache\Apache24\bin
+enter the command -> httpd.exe -k install
+ 
+4)go to the conf folder under your apache folder
+open the file httpd.conf
+go to line 38 ,define your own SRVROOT.
+For example, my apache fold path is D:\Project\apache\Apache24
+ 
+5) go to the fold "D:\Project\apache\Apache24\bin "
+run ApacheMonitor.exe , start the service
+open your web browser, enter the address http://localhost
+If it shows like that following picture, it means you have  install Apache sucessfully.
+ 
+
+
+
+
